@@ -1,6 +1,6 @@
 # Digital College - Formação Desenvolvedor Fullstack
 
-Bem-vindo à Formação Desenvolvedor Fullstack da Digital College! Este repositório contém todos os recursos e materiais necessários para o curso. Leia atentamente as seções abaixo para entender como este repositório funciona e quais padrões adotamos.
+Bem-vindo à Formação Desenvolvedor Fullstack da Digital College! 😊👋 Este repositório contém todos os recursos e materiais necessários para o curso. Leia atentamente as seções abaixo para entender como este repositório funciona e quais padrões adotamos.
 
 ## Estrutura do Curso
 
@@ -34,11 +34,11 @@ O curso é dividido em quatro módulos principais, cada um abordando uma área e
 
 Neste repositório, você encontrará os seguintes recursos e materiais para cada unidade:
 
-- Slides das aulas
-- Notas de aula detalhadas
-- Exercícios práticos
-- Projetos e desafios
-- Recursos adicionais, como links, artigos e tutoriais recomendados
+- Slides das aulas 🖥️
+- Notas de aula detalhadas 📝
+- Exercícios práticos 💻
+- Projetos e desafios 🚀
+- Recursos adicionais, como links, artigos e tutoriais recomendados 🔗
 
 ## Organização do Repositório
 
@@ -77,10 +77,12 @@ A avaliação dos alunos será baseada em diferentes critérios:
 - Desenvolvimento e entrega dos projetos e desafios.
 - Desempenho em provas e testes práticos.
 
-A nota final de cada aluno será calculada com base na combinação desses critérios. Mas vale ressaltar que isso foi escrito em um arquivo em não em pedra.
+A nota final de cada aluno será calculada com base na combinação desses critérios. Mas vale ressalt
+
+ar que isso foi escrito em um arquivo em não em pedra. 😉
 
 ## Comunicação e Suporte
 
 Para dúvidas, esclarecimentos e discussões relacionadas ao curso, os alunos podem utilizar a seção de "Issues" deste repositório. Incentivamos a interação e o compartilhamento de conhecimentos entre os alunos.
 
-Tenha uma ótima jornada de aprendizado e desenvolvimento!
+Tenha uma ótima jornada de aprendizado e desenvolvimento! 🎉🚀
