@@ -4,10 +4,10 @@ Esta aula foi realizada em 24 de junho de 2023.
 
 ## Planejamento
 
-- [ ] Kahoot
-- [ ] Discord
+- [x] Kahoot
+- [x] Discord
 - [ ] Ferramentas do DEV
-- [ ] Desafio
+- [x] Desafio
 - [ ] Momento da Terça
 - [ ] Exercício
 
