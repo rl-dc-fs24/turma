@@ -87,9 +87,7 @@ Diferente do domínio, que faz apenas a ligação de seu site para que ele seja 
 
 - [Vídeo: O que é software e hardware? - Canaltech](https://www.youtube.com/watch?v=RM8bBzHggu8)
 
-- [Vídeo: Des
-
-envolvimento Web - História da Web - UNIVESP](https://www.youtube.com/watch?v=oXnVDHhPKtY)
+- [Vídeo: Desenvolvimento Web - História da Web - UNIVESP](https://www.youtube.com/watch?v=oXnVDHhPKtY)
 
 - [Artigo: Desenvolvimento web: TUDO o que você precisa saber! - XP Educação](https://blog.xpeducacao.com.br/desenvolvimento-web/)
 
