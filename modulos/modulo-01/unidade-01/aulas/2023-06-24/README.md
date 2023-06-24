@@ -5,7 +5,6 @@ Esta aula foi realizada em 24 de junho de 2023.
 ## Planejamento
 
 - [ ] Kahoot
-- [ ] Github Start
 - [ ] Discord
 - [ ] Ferramentas do DEV
 - [ ] Desafio
