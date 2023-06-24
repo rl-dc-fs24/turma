@@ -26,6 +26,50 @@ O desenvolvimento de software envolve a criação e o aprimoramento de programas
 
 A internet é a infraestrutura que permite a comunicação entre computadores, enquanto o desenvolvimento web envolve a criação de sites e aplicativos que são acessados através da internet. O desenvolvimento web é uma das formas de aproveitar os recursos e a conectividade da internet para fornecer serviços e conteúdos online.
 
+## Infraestrutura da Web
+
+### Endereço IP
+
+Um endereço IP (Internet Protocol) é uma identificação numérica única atribuída a cada dispositivo conectado a uma rede de computadores que utiliza o protocolo IP para comunicação.
+
+Existem dois tipos de endereços IP: IPv4 (Internet Protocol version 4) e IPv6 (Internet Protocol version 6). O IPv4 consiste em quatro conjuntos de números separados por pontos (por exemplo, 192.168.0.1), enquanto o IPv6 utiliza o formato hexadecimal separado por dois pontos (por exemplo, 2001:0db8:85a3:0000:0000:8a2e:0370:7334).
+
+O endereço IP permite a identificação e localização de dispositivos em redes, seja na internet pública ou em redes privadas.
+
+### Camada de Domínio
+
+- A camada de domínio refere-se ao sistema de nomes de domínio (DNS - Domain Name System), que é responsável por associar nomes de domínio a endereços IP.
+
+- Em vez de os usuários digitarem diretamente o endereço IP de um site para acessá-lo, o DNS permite que eles usem nomes de domínio (como exemplo.com) para identificar e acessar recursos na web.
+
+- O DNS opera através de uma hierarquia de servidores, com os servidores raiz no topo, seguidos pelos servidores de domínio de alto nível, servidores de domínio autoritários e servidores de cache.
+
+- Quando um usuário insere um nome de domínio em um navegador da web, o DNS é usado para localizar o endereço IP associado a esse nome de domínio e permitir a comunicação entre o cliente e o servidor de destino.
+
+## Frontend VS Backend
+
+É importante destacar que o frontend e o backend trabalham juntos para criar uma experiência completa para os usuários. O frontend lida com a parte visual e interativa, enquanto o backend cuida da lógica e processamento de dados nos bastidores.
+
+### Frontend
+
+- O frontend refere-se à parte de um aplicativo ou site que interage diretamente com os usuários. É a interface que os usuários veem e com a qual interagem.
+
+- O desenvolvimento frontend envolve a criação e implementação dos elementos visuais, interativos e de usabilidade de um aplicativo ou site.
+
+- As tecnologias comumente usadas no desenvolvimento frontend incluem HTML (Hypertext Markup Language), CSS (Cascading Style Sheets) e JavaScript.
+
+- Exemplos de elementos frontend são a estrutura e layout da página, estilos de design, botões, formulários, animações e qualquer elemento com o qual o usuário possa interagir diretamente.
+
+### Backend
+
+- O backend é a parte de um aplicativo ou site que lida com a lógica de negócios, o processamento de dados e a comunicação com o servidor.
+
+- O desenvolvimento backend envolve a criação e implementação dos componentes que não são visíveis para os usuários, mas são essenciais para o funcionamento do aplicativo ou site.
+
+- As tecnologias comumente usadas no desenvolvimento backend incluem linguagens de programação como Python, PHP, Java, frameworks como Node.js, bancos de dados e sistemas de gerenciamento de banco de dados.
+
+- Exemplos de funcionalidades backend incluem processamento de formulários, manipulação de dados, autenticação de usuários, conexão com bancos de dados, gerenciamento de servidores e lógica de negócios.
+
 ## Qual é a diferença entre domínio e hospedagem?
 
 Domínio é o registro de um nome, que é utilizado para conectar seu site à sua hospedagem através de uma palavra ou sequência de caracteres com a finalidade de facilitar o acesso ao seu site através de um navegador de internet.

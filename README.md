@@ -52,14 +52,14 @@ Este repositório é organizado da seguinte forma:
     │   │   ├── aulas
     │   │   │   ├── 2023-06-17
     │   │   │   │   ├── notas.md
-    │   │   │   │   ├── exercicios.md
+    │   │   │   │   ├── atividades|atividade.md
     │   │   │   │   ├── codigo
-    │   │   │   │   └── desafios
+    │   │   │   │   └── desafios|desafio.md
     │   │   │   └── 2023-06-24
     │   │   │       ├── notas.md
-    │   │   │       ├── exercicios.md
+    │   │   │       ├── atividades|atividade.md
     │   │   │       ├── codigo
-    │   │   │       └── desafios 
+    │   │   │       └── desafios|desafio.md 
     │   │   ├── avaliacoes
     │   │   ├── desafios
     │   │   ├── projetos
