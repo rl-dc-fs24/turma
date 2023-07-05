@@ -6,7 +6,7 @@ Esta aula foi realizada em 01 de julho de 2023.
 
 - [x] Dúvidas sobre atividade Discord
 - [x] Introdução SCRUM
-- [x] Pratica (A fantastica fabrica de avioes)
+- [x] Pratica (A Fantástica Fábrica de Aviões)
 - [x] Certificação
 - [x] Momento da Terça
 - [x] Exercício
