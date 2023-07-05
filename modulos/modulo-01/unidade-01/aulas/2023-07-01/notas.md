@@ -4,6 +4,16 @@
 
 Foi apresentado de forma resumida os conceitos do [O Guia do Scrum](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Portuguese-European.pdf)
 
+## Certificação
+
+Em aula recomendei uma certificação, para a entender separei esse conteúdo:
+
+- [Certificações em TI](https://www.youtube.com/watch?v=gIk-hfl_M7g)
+- [A importância da certificação para os profissionais de TI](https://imasters.com.br/e-learning/a-importancia-da-certificacao-para-os-profissionais-de-ti#:~:text=Ela%20ajuda%20no%20aprendizado%20de,no%20avan%C3%A7o%20da%20carreira%20profissional.)
+- [Certificações de TI: quais as principais e como se preparar?](https://www.certifiquei.com.br/certificacoes-ti/#:~:text=As%20certifica%C3%A7%C3%B5es%20de%20TI%20s%C3%A3o,entre%20outras%20%C3%A1reas%20de%20conhecimento.)
+
+Como nossa aula é sobre SCRUM, deixei o link dessa certificação no 0800: [https://certiprof.com/pages/free-new-entry-level-certification](https://certiprof.com/pages/free-new-entry-level-certification)
+
 ## Momento da Terça
 
 ### Stakeholders
