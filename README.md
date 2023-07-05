@@ -8,7 +8,7 @@ O curso é dividido em quatro módulos principais, cada um abordando uma área e
 
 ### Módulo 1: Fundamentos do Desenvolvimento Web
 
-- Unidade 1: Introdução ao Desenvolvimento Web
+- **Unidade 1**: [Introdução ao Desenvolvimento Web](/modulos/modulo-01/)
 - Unidade 2: HTML & CSS
 - Unidade 3: Git e GitHub
 - Unidade 4: Bibliotecas para HTML & CSS

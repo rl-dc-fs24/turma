@@ -6,10 +6,10 @@ Esta aula foi realizada em 24 de junho de 2023.
 
 - [x] Kahoot
 - [x] Discord
-- [ ] Ferramentas do DEV
+- [x] Ferramentas do DEV
 - [x] Desafio
-- [ ] Momento da Terça
-- [ ] Exercício
+- [x] Momento da Terça
+- [x] Exercício
 
 ## Materiais
 
