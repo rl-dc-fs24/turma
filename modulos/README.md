@@ -7,9 +7,6 @@ Este diretório contém todos os módulos do curso. Cada módulo é organizado e
 O diretório possui a seguinte estrutura:
 
 - [modulo-01](./modulo-01)
-<!-- - [modulo-02](./modulo-02)
-- [modulo-03](./modulo-03) -->
-- ...
 
 Cada módulo segue a convenção "modulo-N", onde N representa o número do módulo.
 

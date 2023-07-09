@@ -4,7 +4,7 @@ Bem-vindo à Formação Desenvolvedor Fullstack da Digital College! Este reposit
 
 ## Estrutura do Curso 📚
 
-O curso é dividido em quatro módulos principais, cada um abordando uma área específica do desenvolvimento fullstack:
+O curso é dividido em quatro [📂módulos](./modulos) principais, cada um abordando uma área específica do desenvolvimento fullstack:
 
 ### Módulo 1: [📂Fundamentos do Desenvolvimento Web](./modulos/modulo-01/)
 
