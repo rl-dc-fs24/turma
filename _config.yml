@@ -2,6 +2,3 @@ title: FS24
 theme: jekyll-theme-cayman
 
 show_downloads: true
-
-cayman:
-  color_primary: '#0000ff'
