@@ -3,12 +3,5 @@ theme: jekyll-theme-cayman
 
 show_downloads: true
 
-nav:
-  - title: Home
-    url: /
-  - title: Sobre
-    url: /sobre.html
-  - title: Projetos
-    url: /projetos.html
-  - title: Blog
-    url: /blog.html
+cayman:
+  color_primary: '#0000ff'
