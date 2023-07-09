@@ -12,5 +12,3 @@ O diretório possui a seguinte estrutura:
 - [unidade-02](./unidade-02)
 
 Cada unidade segue a convenção "unidade-N", onde N representa o número da unidade dentro do respectivo módulo.
-
-[<< Voltar](./README.md) | [Próxio Módulo >>](./modulo-02)
