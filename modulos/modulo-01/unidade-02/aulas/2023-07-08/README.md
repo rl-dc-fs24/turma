@@ -11,11 +11,10 @@ Esta aula foi realizada em 08 de julho de 2023.
 - [x] Pratica
 - [x] Tabelas HTML
 - [x] Pratica
-- [ ] Momento da Terça
+- [x] Momento da Terça
 - [x] Exercício
 
 ## Materiais
 
 - [Notas da Aula](./notas.md)
 - [Slide da Aula](./slides.pdf)
-- [Atividade para casa](./atividade.md)

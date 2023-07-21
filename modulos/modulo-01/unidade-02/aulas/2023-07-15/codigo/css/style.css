@@ -1,0 +1,37 @@
+h1 {
+    color: purple;
+    font-size: 32px;
+    text-align: center;
+  }
+
+  body {
+    background-color: beige;
+  }
+
+  img {
+    width: 50vw;
+  }
+
+  tr th {
+    color: blue;
+  }
+
+  h1#primeiro {
+    color: red;
+  }
+
+  .produto {
+    background-color: black;
+    color: aliceblue;
+  }
+
+  .favorito {
+    color: yellowgreen;
+  }
+
+  table,
+  th,
+  td {
+    border: 2px solid red;
+    border-collapse: collapse;
+  }
