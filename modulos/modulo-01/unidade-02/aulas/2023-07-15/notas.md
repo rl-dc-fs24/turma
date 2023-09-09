@@ -1,5 +1,3 @@
-Com certeza! Vamos criar um resumo sobre CSS (Cascading Style Sheets):
-
 # Resumo - CSS (Cascading Style Sheets)
 
 ## 1. O que é CSS?
