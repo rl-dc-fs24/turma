@@ -1,0 +1,16 @@
+/* galeria.css */
+
+#galeria {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  justify-content: center;
+  align-items: center;
+  background-color: brown;
+}
+
+#galeria img {
+  width: 500px; 
+  height: 500px;
+  object-fit: cover;
+}
